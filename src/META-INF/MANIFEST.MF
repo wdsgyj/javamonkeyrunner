@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Class-Path: swt.jar scala-library.jar scala-swing.jar scala-actors.jar
+  chimpchat.jar common.jar commons-codec-1.4.jar commons-compress-1.0.
+ jar commons-logging-1.1.1.jar ddmlib.jar ddmuilib.jar dvlib.jar guava
+ -13.0.1.jar hierarchyviewer2lib.jar httpclient-4.1.1.jar httpcore-4.1
+ .jar httpmime-4.1.jar jcommon-1.0.12.jar jfreechart-1.0.9.jar jfreech
+ art-swt-1.0.9.jar jsilver-1.0.0.jar jython-standalone-2.5.3.jar kxml2
+ -2.3.0.jar layoutlib-api.jar monkeyrunner.jar org-eclipse-core-comman
+ ds-3.6.0.jar org-eclipse-equinox-common-3.6.0.jar org-eclipse-jface-3
+ .6.2.jar sdklib.jar osgi-4.0.0.jar
+Main-Class: 
+
